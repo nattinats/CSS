@@ -1,0 +1,28 @@
+body {
+  background: rgb(190, 154, 224);
+}
+
+h1 {
+  color: red;
+  background: turquoise;
+}
+
+p.tekst {
+  color:rgb(26, 62, 170);
+  background: hsla(327, 80%, 36%, 0.663);
+}
+
+h2 {
+  color:seagreen;
+  background: yellowgreen;
+}
+
+p.tekst2 {
+  color:salmon;
+  background: yellow;
+}
+
+ol {
+  color:rgb(255, 0, 149);
+  background: wheat;
+}
