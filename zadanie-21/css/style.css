@@ -1,0 +1,17 @@
+p {
+  width: 100px;
+  height: 100px;
+  background: rgb(223, 49, 49);
+}
+
+p.one, p.three {
+  background: blueviolet;
+}
+
+p.two, p.six {
+  background: hsla(0, 73%, 53%, 0.24);
+}
+
+p:nth-child(7) {
+  background-color: lime;
+}
